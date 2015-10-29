@@ -12,6 +12,7 @@
 		E3209EF91BE1B6DA00607240 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3209EF71BE1B6DA00607240 /* Main.storyboard */; };
 		E3209EFB1BE1B6DA00607240 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3209EFA1BE1B6DA00607240 /* Assets.xcassets */; };
 		E3209EFE1BE1B6DA00607240 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3209EFC1BE1B6DA00607240 /* LaunchScreen.storyboard */; };
+		E3209F061BE1B77600607240 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E3209F051BE1B77600607240 /* .gitignore */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E3209EFA1BE1B6DA00607240 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3209EFD1BE1B6DA00607240 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3209EFF1BE1B6DA00607240 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3209F051BE1B77600607240 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = "nwood-utils/.gitignore"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		E3209EE71BE1B6DA00607240 = {
 			isa = PBXGroup;
 			children = (
+				E3209F051BE1B77600607240 /* .gitignore */,
 				E3209EF21BE1B6DA00607240 /* nwood-utils */,
 				E3209EF11BE1B6DA00607240 /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3209F061BE1B77600607240 /* .gitignore in Resources */,
 				E3209EFE1BE1B6DA00607240 /* LaunchScreen.storyboard in Resources */,
 				E3209EFB1BE1B6DA00607240 /* Assets.xcassets in Resources */,
 				E3209EF91BE1B6DA00607240 /* Main.storyboard in Resources */,
